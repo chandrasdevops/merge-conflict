@@ -10,10 +10,10 @@ Initial Security()
  //Sample Code
 }
 
-
+<<<<<<< HEAD
 //security patch update
-
+=======
 //updating Feature-1 changes
-
+>>>>>>> 33634f8 (committing changes to main.c from Feature1 branch)
 
 }
