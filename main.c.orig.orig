@@ -13,11 +13,11 @@ Initial Security()
 
 //security patch update
 
-
+<<<<<<< HEAD
 //updating Feature-1 changes
-
+=======
 //updating Feature - 2 changes
-
+>>>>>>> Feature2
 
 
 }
